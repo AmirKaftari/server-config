@@ -1,5 +1,4 @@
 # Automated Server Setup Script
-# Automated Server Setup Script
 
 ![Bash](https://img.shields.io/badge/Language-Bash-green)
 ![GitHub](https://img.shields.io/badge/Platform-Linux-blue)
