@@ -63,6 +63,6 @@ This repository contains a **Bash script** designed to automate the setup and co
 
 ## Author
 
-GitHub: [Your GitHub Profile](https://github.com/AmirKaftari)
+GitHub: [Amir kaftari](https://github.com/AmirKaftari)
 
 Email: amirkaftari9070@gmail.com
