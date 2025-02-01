@@ -45,7 +45,7 @@ This repository contains a **Bash script** designed to automate the setup and co
 
 2. Navigate to the repository directory:
    ```bash
-   cd your-repo-name
+   cd server-config
 3. Make the script executable:
    ```bash
    chmod +x setup.sh
