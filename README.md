@@ -53,6 +53,16 @@ This repository contains a **Bash script** designed to automate the setup and co
    ```bash
    sudo ./setup.sh
 
+---
+
 ## Logging
 
 - A All script output is logged to **/var/log/script.log** for debugging and reference.
+
+---
+
+## Author
+
+GitHub: [Your GitHub Profile](https://github.com/AmirKaftari)
+
+Email: amirkaftari9070@gmail.com
