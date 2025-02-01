@@ -75,8 +75,8 @@ if ! command -v mysql &> /dev/null; then
         print_message "red" "Erro in install or running MySQL."
         exit 1
     fi
-    # تنظیمات امنیتی MySQL
-    sudo mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Korleone@9070';"
+    # Set password for root user. please use another user . root is so danger
+    sudo mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your-password';"
     sudo mysql -e "FLUSH PRIVILEGES;"
 else
     print_message "green" "MySQL installed before."
