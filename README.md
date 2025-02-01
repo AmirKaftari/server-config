@@ -46,3 +46,13 @@ This repository contains a **Bash script** designed to automate the setup and co
 2. Navigate to the repository directory:
    ```bash
    cd your-repo-name
+3. Make the script executable:
+   ```bash
+   chmod +x setup.sh
+4. Make the script executable:
+   ```bash
+   sudo ./setup.sh
+
+## Logging
+
+- A All script output is logged to **/var/log/script.log** for debugging and reference.
